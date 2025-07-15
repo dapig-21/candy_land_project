@@ -1,0 +1,16 @@
+Player one name: jake
+Player one character: JellyBean_Jane
+Player one stamina remaining: 99
+Player one candies amount: 4
+Player one inventory: 
+|[Breezy Butterscotch]|[Lucky Licorice]|[Fearsome Fudge]|
+|[Crimson Crystal]|[Empty]|[Empty]|
+|[Empty]|[Empty]|[Empty]|
+Player two name: blep
+Player two character: Smarties_Steven
+Player two stamina remaining: 171
+Player two candies amount: 1
+Player two inventory: 
+|[Frosty Fizz]|[Empty]|[Empty]|
+|[Empty]|[Empty]|[Empty]|
+|[Empty]|[Empty]|[Empty]|

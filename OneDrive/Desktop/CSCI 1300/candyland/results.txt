@@ -1,0 +1,16 @@
+Player one name: jake
+Player one character: Toffee_Todd
+Player one stamina remaining: 99
+Player one candies amount: 3
+Player one inventory: 
+|[Frosty Fizz]|[Fearsome Fudge]|[Frosty Fizz]|
+|[Empty]|[Empty]|[Empty]|
+|[Empty]|[Empty]|[Empty]|
+Player two name: blep
+Player two character: ApplePie_Andy
+Player two stamina remaining: 123
+Player two candies amount: 2
+Player two inventory: 
+|[Breezy Butterscotch]|[Crimson Crystal]|[Empty]|
+|[Empty]|[Empty]|[Empty]|
+|[Empty]|[Empty]|[Empty]|
